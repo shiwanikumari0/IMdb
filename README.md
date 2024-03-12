@@ -1,3 +1,22 @@
+# IMdb Movie app
+
+I have created IMDb website, the ultimate platform for all the people to see movie rating where they
+know which movie rating is high or low so that they can easily choose any movie to watch .I have used
+React JS and Tailwind CSS .the use of react library makes the website easy to use and tailwind CSS
+enhances the beauty of the website.
+
+# Tech Stacks Used: HTML, Tailwind CSS, JavaScript, React Js.
+
+#Developement Environment: Vs code, git, Netlify.
+
+Deployed Version:https://imdb-fe.netlify.app/movies/upcoming
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
